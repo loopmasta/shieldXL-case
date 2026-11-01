@@ -4,7 +4,9 @@ A 3D-printable, two-part snap-fit case for the [shieldXL](https://github.com/oky
 
 ![The assembled case seen from the front left, with knobs and button caps](images/case-assembly.png)
 
-> **Status:** prototype. The dimensions come from the CAD model and the shieldXL board files; the design has not been fully verified on a real print yet.
+![The printed Bottom with heat-set inserts in the standoffs and the printed Top, next to a built shieldXL](images/print-open.jpg)
+
+![The finished case with the shieldXL inside, running a norns script](images/print-assembled.jpg)
 
 ## Parts
 
